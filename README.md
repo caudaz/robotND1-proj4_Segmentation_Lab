@@ -17,7 +17,7 @@ jupyter notebook
 
 Log-loss plot for training and validation data:
 
-![Log-loss plot for training and validation data](./results/2018-06-12_07-04-06.png)
+[Log-loss plot for training and validation data](./results/2018-06-12_07-04-06.png)
 
 FCN Semantic Segmentation Output Example:
 
