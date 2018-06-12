@@ -24,6 +24,13 @@ jupyter notebook
 ### title 3 ###
 #### title 4 ####
 
+This paragraph contains a list of items.
+
+* Item 1
+* Item 2
+* Item three
+
+
 [![Udacity - Robotics Nanodegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
 ## Semantic Segmentation Lab ##
