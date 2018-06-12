@@ -1,3 +1,24 @@
+## Instructions ##
+
+1-Clone this repo
+
+2-Active Conda environment:
+```
+source activate RoboND
+```
+
+3-Start Jupyter Notebook and run/train the model:
+```
+cd robotND1-proj4_Segmentation_Lab
+jupyter notebook
+```
+4-The FCN training/validation results can be found here:
+[Log-loss plot for training and validation data](results/2018-06-12 07-04-06.png)
+[FCN Semantic Segmentation Output Example](results/2018-06-12 07-06-57.png)
+[Evaluation Scores IOU](results/2018-06-12 07-07-16.png)
+
+
+
 [![Udacity - Robotics Nanodegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
 ## Semantic Segmentation Lab ##
