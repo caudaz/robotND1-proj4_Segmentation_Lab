@@ -15,8 +15,8 @@ jupyter notebook
 4-The FCN training/validation results can be found here:
 
 ![Log-loss plot for training and validation data](./results/2018-06-12_07-04-06.png)
-![FCN Semantic Segmentation Output Example](./results/2018-06-12 07-06-57.png)
-![Evaluation Scores IOU](./results/2018-06-12 07-07-16.png)
+![FCN Semantic Segmentation Output Example](./results/2018-06-12_07-06-57.png)
+![Evaluation Scores IOU](./results/2018-06-12_07-07-16.png)
 
 
 
