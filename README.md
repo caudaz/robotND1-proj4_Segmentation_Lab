@@ -13,7 +13,7 @@ cd robotND1-proj4_Segmentation_Lab
 jupyter notebook
 ```
 
-##Results for the FCN training/validation##
+## Results for the FCN training/validation ##
 
 Log-loss plot for training and validation data:
 
